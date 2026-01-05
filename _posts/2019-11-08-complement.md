@@ -173,7 +173,7 @@ $$ a - b = a + (1000-b) - 1000 $$
 作为计算机补码运算的开山鼻祖，[帕斯卡的算术机](https://www.jianshu.com/p/4de1b635ae39)中用的是第一种方法，而如今的计算机用的是第二种方法。
 
 # 参考资料
-- [维基 - Method of complements](http://wikipedia.moesalih.com/Method_of_complements)
+- 维基 - Method of complements
 - [知乎 - 为什么计算机采用补码而不是原码或反码？](https://www.zhihu.com/question/352057791)
 - [简书 - 补码杂谈](https://www.jianshu.com/p/3d92fe1c34af)
 
